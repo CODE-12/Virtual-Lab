@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="VIRTUALLAB.exe" version="1.0.0.6" publicKeyToken="4c2013e89eeba12b" language="neutral" processorArchitecture="msil" type="win32" />
+  <description asmv2:iconFile="Jozef89-Services-Flat-Lab.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="VIRTUALLAB" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="VIRTUALLAB.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="MetroFramework.Design" version="1.2.0.3" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.dll" size="152576">
+      <assemblyIdentity name="MetroFramework" version="1.2.0.3" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>uvMm9S05FV1yJGWUf0zGfm6Qz9D4mVTquVlWjpvDQqo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="MetroFramework.Fonts.dll" size="672256">
+      <assemblyIdentity name="MetroFramework.Fonts" version="1.2.0.3" publicKeyToken="5F91A84759BF584A" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>6WAw/dr354QBVn7oJICtde5I01VhmaP4XA7Gae2sLvQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="VIRTUALLAB.exe" size="1274792">
+      <assemblyIdentity name="VIRTUALLAB" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>+HBGKQ25mYebPok8OTFfeGFDtxu76uTo2rHnGznWTKU=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="Jozef89-Services-Flat-Lab.ico" size="173725">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>KGdlk01V16sffZViNJZ1OR12Y4PWnZs/rBW4Bc6l+6I=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="MetroFramework.txt" size="1266">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>+yV6adEVlpUIOiH/IdsfqaixKo0MB7DiB/hBOyI4wKw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="VIRTUALLAB.exe.config" size="187">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>xm4bo26HQ0LNVwz1vdPYtzhkpMnp2AI5i+f0b+OahTI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=user-PC\user" issuerKeyHash="4b5c28a5b58806ce88008d257930978a86476c82" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>BU5oP3XO5wYjneUhkJWDa9kAoGfEt31LIS2FHLTcWEc=</DigestValue></Reference></SignedInfo><SignatureValue>C5WpUJCIQI11KNTHQitB4Zm/Ba8q2O6ULVeIQkOpMGF+RFI/Y9OPjkKqjloEWnObix1Ph2FiQlwR7lkhYmAC3esmxCWrlM8YbDPrXZEzi1928oHXq/hrrxieJfCc2k3jG1Mu0kW5oiOrup3KmgrLpKmMS/yK10ZCa9L4szswMhk=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>uNf8ACmwgvwsYBvdFrH3ttc/9WP6PxVnQ683ZS8HQqJklexTC9DShYbtMolnhGcZAo7zVkltzlAYYq2p1Lu4jWjsSqofBF920emXpqbuXJoyjvXBuKOov8XIPNLfGP9h6Uyo8+gCfr7/4UBEPIOtHI8TbrqkU1lCzTgk499pyZc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="4758dcb41c852d214b7db7c467a000d96b83959021e59d2306e7ce753f684e05" Description="" Url=""><as:assemblyIdentity name="VIRTUALLAB.exe" version="1.0.0.6" publicKeyToken="4c2013e89eeba12b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=user-PC\user</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>fnLqBin6PsPuqAxtwcrF6LK+Hj8uyHgHRZGPLDQ9Cjw=</DigestValue></Reference></SignedInfo><SignatureValue>lm0XMZDA4iMtVrlGEaIwdkTVmMJmxntfnfaC83lLCuWgGT5Kn0VfMhuXCHeDSlhga5GCMQhn339ttVzqUkVANyxFtTYdQs0NyN4Nd4fOx0bES3MeJoQAIbokEGqLT3HwbQnUibftvdEz3vPJkuD+A8JiBgw6CBVHmxbEgWshQx0=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>uNf8ACmwgvwsYBvdFrH3ttc/9WP6PxVnQ683ZS8HQqJklexTC9DShYbtMolnhGcZAo7zVkltzlAYYq2p1Lu4jWjsSqofBF920emXpqbuXJoyjvXBuKOov8XIPNLfGP9h6Uyo8+gCfr7/4UBEPIOtHI8TbrqkU1lCzTgk499pyZc=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIByTCCATKgAwIBAgIQZRHNsOVyL4ZGTyPIQNLwTjANBgkqhkiG9w0BAQsFADAjMSEwHwYDVQQDHhgAdQBzAGUAcgAtAFAAQwBcAHUAcwBlAHIwHhcNMTcwMTAxMjI0NzQ0WhcNMTgwMTAyMDQ0NzQ0WjAjMSEwHwYDVQQDHhgAdQBzAGUAcgAtAFAAQwBcAHUAcwBlAHIwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALjX/AApsIL8LGAb3Rax97bXP/Vj+j8VZ0OvN2UvB0KiZJXsUwvQ0oWG7TKJZ4RnGQKO81ZJbc5QGGKtqdS7uI1o7EqqHwRfdtHpl6am7lyaMo71wbijqL/FyDzS3xj/YelMqPPoAn6+/+FARDyDrRyPE266pFNZQs04JOPfacmXAgMBAAEwDQYJKoZIhvcNAQELBQADgYEAPbqpqMVKNt0z6gezIn66Skv/NqJrVaCzMZ+Gwx6bRv0HnjngY+wEO4kTh6UgetE/fd4EMnUl0XvLoztULuNgRxcDEVr0RcqwD7b0Wfq4qTZ4bLUdjmJ2yfoxpYm2XOCFSxdJcdejOiji+R5j8iqemaZTonMzrKOI77w2KzzW8pk=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

@@ -1,0 +1,77 @@
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.exe.config
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.exe
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.pdb
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Concave_mirrors.resources
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Concave.resources
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Convex_mirrors.resources
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Convex.resources
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Form1.resources
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Properties.Resources.resources
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.exe
+c:\users\user\documents\visual studio 2013\Projects\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.pdb
+F:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.exe.config
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.exe
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.pdb
+F:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.exe
+F:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.pdb
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Concave_mirrors.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Concave.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Convex_mirrors.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Convex.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Form1.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Properties.Resources.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.csproj.GenerateResource.Cache
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Young_Try.resources
+H:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.exe.config
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.exe
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.pdb
+H:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.exe
+H:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.pdb
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.csprojResolveAssemblyReference.cache
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Concave_mirrors.resources
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Concave.resources
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Convex_mirrors.resources
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Convex.resources
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Form1.resources
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Properties.Resources.resources
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Young_Try.resources
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.csproj.GenerateResource.Cache
+E:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.exe.config
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.exe
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.pdb
+E:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.exe
+E:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.pdb
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Concave_mirrors.resources
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Concave.resources
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Convex_mirrors.resources
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Convex.resources
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Form1.resources
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Properties.Resources.resources
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Young_Try.resources
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.csproj.GenerateResource.Cache
+F:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.exe.manifest
+F:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.application
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.exe.manifest
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.application
+H:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.exe.manifest
+H:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.application
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.exe.manifest
+H:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.application
+E:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.exe.manifest
+E:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\VIRTUALLAB.application
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.exe.manifest
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.application
+E:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.csprojResolveAssemblyReference.cache
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.csprojResolveAssemblyReference.cache
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.cme.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.Mine_face.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.cme2.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.pme.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.phun1.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\MetroFramework.dll
+F:\1111\VIRTUALLAB\VIRTUALLAB\bin\Debug\MetroFramework.Fonts.dll
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.phun2.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.phun3.resources
+F:\1111\VIRTUALLAB\VIRTUALLAB\obj\Debug\VIRTUALLAB.phun4.resources
